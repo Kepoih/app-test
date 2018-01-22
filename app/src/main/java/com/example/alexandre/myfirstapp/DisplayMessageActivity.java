@@ -17,9 +17,11 @@ public class DisplayMessageActivity extends AppCompatActivity {
 
         TextView textView = findViewById(R.id.textView);
         textView.setText(message);
-        //What do you mean?
-        //Nothing special.
-        //Replaced line on the master branch.
-        //adding something on master
+        /*
+        What do you mean?
+        Nothing special.
+        Replaced line on the master branch.
+        trying to merge with elmts from both sides
+        */
     }
 }
