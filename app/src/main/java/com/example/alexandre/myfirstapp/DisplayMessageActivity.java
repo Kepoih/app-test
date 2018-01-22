@@ -19,6 +19,6 @@ public class DisplayMessageActivity extends AppCompatActivity {
         textView.setText(message);
         //What do you mean?
         //Nothing special.
-        //Adding a line on Android Studio.
+        //Replaced line on the master branch.
     }
 }
