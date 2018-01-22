@@ -20,5 +20,6 @@ public class DisplayMessageActivity extends AppCompatActivity {
         //What do you mean?
         //Nothing special.
         //Replaced line on the master branch.
+        //adding something on master
     }
 }
