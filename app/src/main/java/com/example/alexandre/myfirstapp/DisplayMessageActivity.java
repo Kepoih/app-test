@@ -22,6 +22,7 @@ public class DisplayMessageActivity extends AppCompatActivity {
         Nothing special.
         Replaced line on the master branch.
         trying to merge with elmts from both sides
+        hey ho
         */
     }
 }
